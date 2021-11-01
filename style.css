@@ -1,0 +1,11 @@
+body{
+    background-color: #DC6BAD;   
+}
+.name_of_objects{
+color: #03CEA4;
+}
+#camera,#result{
+    border: 2px dotted #9A4C95;
+    width:350px ;
+    height: 300px; ;
+}
